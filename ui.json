@@ -5,7 +5,7 @@
         {
         "label": "PMO Plugin-Übersicht",
         "menu": "start",
-        "urlKey": "https://mokesch.plentymarkets-cloud02.com/plenty/ui-backend/start/pmoplugin",
+        "urlKey": "https://mokesch.plentymarkets-cloud02.com/plenty/terra/ui-backend/start/pmoplugin",
         "entryPoint": "index.html"
         }
     ]
