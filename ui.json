@@ -1,0 +1,12 @@
+{
+    "defaultEntryPoint": "index.html",
+    "namespace": "pmoplugin",
+    "menuEntries": [
+        {
+        "label": "pmoplugin",
+        "menu": "start",
+        "urlKey": "http://mokesch.plentymarkets-cloud02.com/plenty/ui-backend/start/pmoplugin",
+        "entryPoint": "index.html"
+        }
+    ]
+}
