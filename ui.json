@@ -3,9 +3,9 @@
     "namespace": "pmoplugin",
     "menuEntries": [
         {
-        "label": "pmoplugin",
+        "label": "PMO Plugin-Übersicht",
         "menu": "start",
-        "urlKey": "http://mokesch.plentymarkets-cloud02.com/plenty/ui-backend/start/pmoplugin",
+        "urlKey": "http://mokesch.plentymarkets-cloud02.com/38610/plenty/ui-backend/start/pmoplugin",
         "entryPoint": "index.html"
         }
     ]
